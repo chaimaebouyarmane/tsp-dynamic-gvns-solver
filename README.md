@@ -29,19 +29,19 @@ Explore the application and see it in action by clicking the link below:
 
 Description: This interface showcases the Dynamic Programming approach for solving TSP instances. It provides exact solutions for small-to-medium-sized TSP problems.
 
-![Dynamic Programming Interface](https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/DP.png)
+![Dynamic Programming Interface](https://github.com/chaimaebouyarmane/tsp-dynamic-gvns-solver/blob/main/imgs/DP.png)
 
 ### :mag_right: GVNS Algorithm Interface
 
 Description: Explore the power of the GVNS (General Variable Neighborhood Search) algorithm in solving larger TSP instances. This metaheuristic approach is designed for scalability and efficiency.
 
-![GVNS Algorithm Interface](https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/GVNS.png)
+![GVNS Algorithm Interface](https://github.com/chaimaebouyarmane/tsp-dynamic-gvns-solver/blob/main/imgs/GVNS.png)
 
 ### :globe_with_meridians: Interactive Visualization Interface
 
 Description: Visualize the optimal TSP route on an interactive map. This interface provides a graphical representation of the solution, making it easy to understand and analyze.
 
-![Interactive Visualization Interface](https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/Graph_succes.png)
+![Interactive Visualization Interface](https://github.com/chaimaebouyarmane/tsp-dynamic-gvns-solver/blob/main/imgs/Graph_succes.png)
 ## Getting Started
 
 Follow these simple steps to run the TSP Solver locally:
