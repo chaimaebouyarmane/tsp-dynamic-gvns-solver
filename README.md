@@ -80,7 +80,7 @@ Feel free to reach out to us if you have any questions or suggestions:
 **Chaimae BOUYARMANE** 
   - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BoutainaELYAZIJI)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boutaina-elyaziji-678681184/)
-
+**Chaimae ** 
 GitHub: [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BoutainaELYAZIJI)
 
 Happy traveling salesman problem solving! 🚗💨
