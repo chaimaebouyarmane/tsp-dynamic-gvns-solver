@@ -1,48 +1,43 @@
-# Traveling Salesman Problem Solver with Dynamic Programming and GVNS :penguin:
+# TSP Solver: Dynamic Programming and GVNS Approaches 🌍
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://boutainaelyaziji-tsp-project-app-cod2bj.streamlit.app/)
 
-The objective of this project is to solve the Traveling Salesman Problem (TSP), a mathematical problem that involves finding the shortest path to connect a set of cities with given distances while visiting each city exactly once and returning to the starting city. We have implemented several methods to solve this problem, including an exact method using dynamic programming and a metaheuristic method known as GVNS.
+## Introduction
 
-### Demo  __click on the link below__ : :100:
+Welcome to the Traveling Salesman Problem (TSP) Solver, an interactive web application designed to find optimal solutions for the classic TSP using both Dynamic Programming and GVNS (General Variable Neighborhood Search) algorithms. The TSP is a fundamental combinatorial optimization problem that involves finding the shortest possible route that visits a given set of cities and returns to the origin city.
 
-<div align="center">
+This project provides a user-friendly interface for solving TSP instances, visualizing solutions, and understanding the concepts behind these two powerful algorithms.
 
-<a href="https://boutainaelyaziji-tsp-project-app-cod2bj.streamlit.app/">
-<img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/HomePage.png">
-<p>Click here to see the demo</p>
-</a>
+## Features
 
-</div>
+- **Dynamic Programming**: Utilizes dynamic programming to calculate the exact solution to small-to-medium-sized TSP instances.
+- **GVNS Algorithm**: Implements the GVNS metaheuristic, a versatile local search method, to tackle larger TSP instances.
+- **Interactive Visualization**: Visualizes the optimal TSP route on a map, making it easy to understand and interpret the results.
+- **Upload Custom Data**: Allows users to upload their own datasets in CSV or Excel format for TSP problem-solving.
+- **Performance Metrics**: Measures and displays performance metrics such as solution quality and computation time.
+- **Download Solutions**: Provides the option to download the TSP solution as a CSV file for further analysis or integration into other applications.
 
-### Description : :sunglasses:
-This project provides a user interface for selecting an approach from the sidebar to perform tasks related to the Traveling Salesman Problem (TSP). To get started, the user needs to upload an Excel or CSV file. We recommend using the "TSP Maroc Data" dataset to test the approach.
-Next, the user is required to enter the name of the sheet in the uploaded file and the name of the first city to initiate the computation. The approach then explores the minimum distance between different cities and generates the minimum path that the salesman should take to visit all the cities and return to the starting point.
-The user can also generate a visualization graph to view the minimum path and the distance between cities. Once the visualization is generated, the user can download the graph for future reference. This approach can be helpful for businesses and organizations that require optimized route planning for efficient transportation and logistics.
+## Demo
 
-- TSP Pseudocode :computer:
+Explore the application and see it in action by clicking the link below:
 
-<img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/pseudo_code.png">
+[![Demo](https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/HomePage.png)](https://boutainaelyaziji-tsp-project-app-cod2bj.streamlit.app/)
 
-### :full_moon_with_face: Dynamic Programming Approach
-<img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/DP.png">
+## Getting Started
 
-### :new_moon_with_face: Metaheuristic Approach (GVNS)
-<img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/GVNS.png">
+Follow these simple steps to run the TSP Solver locally:
 
- ### :balloon: Successfully Generated Graph
- You can download the graph using the button below :) 
- 
- <img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/Graph_succes.png">
- 
-### Mobile View :vibration_mode:
-<img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/mobile.png">
+### Prerequisites
 
-### Installation :arrow_down:
+Make sure you have Python and the following Python packages installed:
 
-```shell script
-pip install streamlit
-pip install pandas 
-pip install streamlit_option_menu
-pip install matplotlib
-pip install numpy
-pip install streamlit-lottie
+- `streamlit`
+- `pandas`
+- `matplotlib`
+- `numpy`
+- `streamlit-lottie`
+
+You can install them using pip:
+
+```shell
+pip install streamlit pandas matplotlib numpy streamlit-lottie
