@@ -59,15 +59,16 @@ Make sure you have Python and the following Python packages installed:
 You can install them using pip:
 
 ```shell
-pip install streamlit pandas matplotlib numpy streamlit-lottie
-
+pip install streamlit pandas matplotlib numpy streamlit-lottie 
+```
 ## Usage
 1- Clone this repository to your local machine.
 
 2- Navigate to the project directory in your terminal.
 
 3- Run the Streamlit app using the following command:
+
 ```shell
 streamlit run App.py
-
+```
 The app will open in your default web browser. You can now start solving TSP instances and visualizing the results.
