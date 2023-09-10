@@ -77,10 +77,6 @@ Feel free to reach out to us if you have any questions or suggestions:
 **Chaimae BOUYARMANE**
   - GitHub: [chaimaebouyarmane](https://github.com/chaimaebouyarmane)
   - LinkedIn: [Chaimae BOUYARMANE](https://www.linkedin.com/in/chaimae-bouyarmane-14882622b/)
-**Chaimae BOUYARMANE** 
-  - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BoutainaELYAZIJI)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boutaina-elyaziji-678681184/)
-**Chaimae ** 
-GitHub: [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BoutainaELYAZIJI)
+<a href="https://linkedin.com/in/chaimae-bouyarmane-14882622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouyarmane" height="30" width="40" /></a>
 
 Happy traveling salesman problem solving! 🚗💨
