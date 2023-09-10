@@ -75,10 +75,8 @@ The app will open in your default web browser. You can now start solving TSP ins
 ## Contact :busts_in_silhouette:
 Feel free to reach out to us if you have any questions or suggestions:
 **Chaimae BOUYARMANE**
-  - GitHub: [chaimaebouyarmane](https://github.com/chaimaebouyarmane)
-  - LinkedIn: [Chaimae BOUYARMANE](https://www.linkedin.com/in/chaimae-bouyarmane-14882622b/)
-<a href="https://linkedin.com/in/chaimae-bouyarmane-14882622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouyarmane" height="30" width="40" /></a>
-<a href="https://github.com/votre-nom-d-utilisateur" target="_blank">
+ <a href="https://linkedin.com/in/chaimae-bouyarmane-14882622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouyarmane" height="30" width="40" /></a>
+<a href="https://github.com/chaimaebouyarmane" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Votre nom" height="30" width="40" />
 </a>
 
