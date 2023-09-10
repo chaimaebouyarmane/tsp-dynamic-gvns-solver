@@ -16,7 +16,8 @@ This project provides a user-friendly interface for solving TSP instances, visua
 - **Upload Custom Data**: Allows users to upload their own datasets in CSV or Excel format for TSP problem-solving.
 - **Performance Metrics**: Measures and displays performance metrics such as solution quality and computation time.
 - **Download Solutions**: Provides the option to download the TSP solution as a CSV file for further analysis or integration into other applications.
-  ## Application Interfaces
+  
+## Application Interfaces
 
 ### Dynamic Programming Interface
 
