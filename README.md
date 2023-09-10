@@ -72,3 +72,10 @@ pip install streamlit pandas matplotlib numpy streamlit-lottie
 streamlit run App.py
 ```
 The app will open in your default web browser. You can now start solving TSP instances and visualizing the results.
+## Contact
+Feel free to reach out to us if you have any questions or suggestions:
+**Chaimae BOUYARMANE**
+  - GitHub: [chaimaebouyarmane](https://github.com/BoutainaELYAZIJI)
+  - LinkedIn: [Chaimae BOUYARMANE](https://www.linkedin.com/in/chaimae-bouyarmane-14882622b/)
+
+Happy traveling salesman problem solving! 🚗💨
