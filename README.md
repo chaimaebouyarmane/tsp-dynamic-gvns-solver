@@ -21,7 +21,7 @@ This project provides a user-friendly interface for solving TSP instances, visua
 
 Explore the application and see it in action by clicking the link below:
 
-[![Demo](https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/HomePage.png)](https://boutainaelyaziji-tsp-project-app-cod2bj.streamlit.app/)
+[![Demo](https://github.com/chaimaebouyarmane/tsp-dynamic-gvns-solver/blob/main/imgs/HomePage.png)](https://boutainaelyaziji-tsp-project-app-cod2bj.streamlit.app/)
 
 ## Application Interfaces
 
