@@ -1,43 +1,48 @@
-# TSP Solver: Dynamic Programming and GVNS Approaches 🌍
-
+# Application Web de résolution du Problème du Voyageur de Commerce avec Programmation Dynamique et GVNS :penguin:
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://boutainaelyaziji-tsp-project-app-cod2bj.streamlit.app/)
 
-## Introduction
+L'objectif de ce projet est de résoudre le problème du voyageur de commerce, un problème mathématique qui consiste à trouver le chemin le plus court pour relier un ensemble de villes données, en visitant chaque ville exactement une fois et en revenant à la ville de départ. Nous avons mis en place plusieurs méthodes pour résoudre ce problème :<br/> une méthode exacte représentée par la programmation dynamique ainsi qu'une autre méthode métaheuristique (GVNS).
 
-Welcome to the Traveling Salesman Problem (TSP) Solver, an interactive web application designed to find optimal solutions for the classic TSP using both Dynamic Programming and GVNS (General Variable Neighborhood Search) algorithms. The TSP is a fundamental combinatorial optimization problem that involves finding the shortest possible route that visits a given set of cities and returns to the origin city.
+### Démo  __cliquez sur le lien ci-dessous__ : :100:
 
-This project provides a user-friendly interface for solving TSP instances, visualizing solutions, and understanding the concepts behind these two powerful algorithms.
+<div align="center">
 
-## Features
+<a href="https://boutainaelyaziji-tsp-project-app-cod2bj.streamlit.app/">
+<img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/HomePage.png">
+<p>Cliquez ici pour voir la démo</p>
+</a>
 
-- **Dynamic Programming**: Utilizes dynamic programming to calculate the exact solution to small-to-medium-sized TSP instances.
-- **GVNS Algorithm**: Implements the GVNS metaheuristic, a versatile local search method, to tackle larger TSP instances.
-- **Interactive Visualization**: Visualizes the optimal TSP route on a map, making it easy to understand and interpret the results.
-- **Upload Custom Data**: Allows users to upload their own datasets in CSV or Excel format for TSP problem-solving.
-- **Performance Metrics**: Measures and displays performance metrics such as solution quality and computation time.
-- **Download Solutions**: Provides the option to download the TSP solution as a CSV file for further analysis or integration into other applications.
+</div>
 
-## Demo
+### Description : :sunglasses:
+Ce projet offre une interface utilisateur pour sélectionner une approche à partir de la barre latérale afin d'effectuer une tâche liée au Problème du Voyageur de Commerce (TSP). Pour commencer, l'utilisateur doit télécharger un fichier Excel ou CSV. Le jeu de données "TSP Maroc Data" est recommandé pour tester l'approche.
+Ensuite, l'utilisateur doit saisir le nom de la feuille dans le fichier téléchargé et le nom de la première ville pour démarrer le calcul. L'approche explore ensuite la distance minimale entre différentes villes et génère le chemin le plus court que le voyageur doit emprunter pour visiter toutes les villes et revenir au point de départ.
+L'utilisateur peut également générer un graphique de visualisation pour voir le chemin minimal et la distance entre les villes. Une fois la visualisation générée, l'utilisateur peut télécharger le graphique pour référence future. Cette approche peut être utile pour les entreprises et les organisations qui nécessitent une planification optimisée des itinéraires pour une logistique et un transport efficaces.
 
-Explore the application and see it in action by clicking the link below:
+- Pseudocode du TSP :computer:
 
-[![Demo](https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/HomePage.png)](https://boutainaelyaziji-tsp-project-app-cod2bj.streamlit.app/)
+<img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/pseudo_code.png">
 
-## Getting Started
+### :full_moon_with_face: Approche Dynamique
+<img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/DP.png">
 
-Follow these simple steps to run the TSP Solver locally:
+### :new_moon_with_face: Approche Métaheuristique (GVNS)
+<img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/GVNS.png">
 
-### Prerequisites
+ ### :balloon: Graphique généré avec succès
+ Vous pouvez télécharger le graphique en utilisant le bouton ci-dessous :) 
+ 
+ <img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/Graph_succes.png">
+ 
+### Vue mobile :vibration_mode:
+<img src="https://github.com/BoutainaELYAZIJI/TSP_project/blob/main/imgs/mobile.png">
 
-Make sure you have Python and the following Python packages installed:
+### Installation :arrow_down:
 
-- `streamlit`
-- `pandas`
-- `matplotlib`
-- `numpy`
-- `streamlit-lottie`
-
-You can install them using pip:
-
-```shell
-pip install streamlit pandas matplotlib numpy streamlit-lottie
+```shell script
+pip install streamlit
+pip install pandas 
+pip install streamlit_option_menu
+pip install matplotlib
+pip install numpy
+pip install streamlit-lottie
